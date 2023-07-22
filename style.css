@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+}
+
+.perfil {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 30%;
+}
